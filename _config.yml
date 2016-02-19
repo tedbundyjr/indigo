@@ -1,24 +1,24 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
+name: Haris Subandie MS
+bio: 'A geek, friend and father.'
+picture: 'assets/images/profile.png'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://tedbundyjr.github.io
 # your url: http://USERNAME.github.io
 permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
 
-analytics: 'UA-MYANALYTICS'
-disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+analytics: 'UA-74079520-1'
+# disqus: mydisqus
+facebook: tedbundyjr
+twitter: tedbundyjr
+instagram: tedbundyjr
+linkedin: tedbundyjr
+youtube: tedbundyjr
+spotify: tedbundyjr
+github: tedbundyjr
+email: ted@vms.my
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
@@ -27,11 +27,11 @@ exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.j
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need about or blog, comment them out below
 about: true
-blog: true
+blog: false
 
 gems:
   - jemoji
